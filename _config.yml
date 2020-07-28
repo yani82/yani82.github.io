@@ -1,11 +1,11 @@
 # Site settings
 author: Yani Asari
-title: 
+title: Coding Calling 
 header-img: img/home-bg.png
 email: yani.iman1@gmail.com
 copyright_name: Yani Asari
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A day in the life of a coding newb
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: yi_tweets
 github_username:  yani82
