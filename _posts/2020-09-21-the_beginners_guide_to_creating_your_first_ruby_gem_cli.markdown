@@ -75,7 +75,7 @@ In the process of overloading myself with all sorts of information, I did come b
 
 * [ByeBug (Pry equivalent)](http://https://rubygems.org/gems/byebug/versions/9.0.6)
 
-Ok then, before I continue rambling on nonsensically, I’ll leave you with a quote by TLC:
+Ok then, before I continue rambling on nonsensically, I’ll leave you with a quote by *TLC*:
 “Don’t go chasing waterfalls, please stick to the rivers and the lakes that you’re used to.”
 
 Nevertheless, with all of the challenges faced, I am truly hoping that I’m able to move forward with my current cohort! A special shout out to my cohort mates Hamza, Wayne, Cinna, Joshua W., Dana, Kelin, Adeeba, and Fenty for all your help and encouragement during this time! I'm definitely going to pay-it-forward <3 
