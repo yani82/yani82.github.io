@@ -57,7 +57,7 @@ Misc:
 * https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
 
-Also, you have a bonus lab that isn’t required - don’t do it. That time could’ve been put into your project. Make sure you are absolutely clear of the project requirements and double check with your instructor on what you don’t need to prioritize on stuff like the project diagram. That [Draw.oi](http://https://app.diagrams.net) can steal more of your time than you think.
+Also, if you have a bonus lab that isn’t required - don’t do it. That time could’ve been put into your project. Make sure you are absolutely clear of the project requirements and double check with your instructor on what you don’t need to prioritize on stuff like the project diagram. That [Draw.oi](http://https://app.diagrams.net) can steal more of your time than you think.
 
 Don’t try to switch up your routine during project time (if you have a choice that is, which I didn’t since my husband started work and I had my daughter for most of the day who was prepping for her first year of school). Opting to wake up early to code instead of staying up late is great and all (if you actually do wake up!), but there are also no cohort mates awake to bounce ideas off of and ask for help from.
 
