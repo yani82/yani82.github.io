@@ -20,7 +20,7 @@ Make sure you choose an API that does not require an api key 🔑, when you are 
 
 Not forgetting to mention, I had just switched to a local environment the previous weekend, so that was a whole new adjustment. Make sure you make room in your RAM for all the stuff you’re going to be downloading. Don’t spend too much time on adding [fun extensions](http://https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US) to your Google Chrome! Just get cracking. 
 
-Next up, was actually setting up my project on my text editor and linking it to my GitHub via Git. I had faced many technical issues related to this and below were just a few that I could remember: 
+Next up, was actually setting up my project on my text editor and linking it to my GitHub via Git. I had faced many Git errors related to this and and faced later on in the project process, below were just a few that I could remember: 
 
 * [➜  ~ git:(master) ✗](http://https://stackoverflow.com/questions/25351213/my-shell-prompt-looks-like-this-gitmaster-how-can-i-get-my-normal-pro) 
 
@@ -31,6 +31,10 @@ Next up, was actually setting up my project on my text editor and linking it to 
 * [require: command not found](http://https://stackoverflow.com/questions/18214409/require-command-not-found) 
 
 * [How to rename a directory?](http://https://stackoverflow.com/questions/6738913/how-to-rename-a-directory) 
+
+* [dquote>](http://https://stackoverflow.com/questions/15773278/dquote-result-of-a-execution-a-program-in-linux-shell) (I used an ! in my commit edit remarks) 
+
+* When scraping some websites may limit your ability to scrape so I got this very unique error: [Errno::ENOENT: No such file or directory @ rb_sysopen](http://https://stackoverflow.com/questions/43445995/errnoenoent-no-such-file-or-directory-rb-sysopen?noredirect=1&lq=1)
  
 
 
