@@ -7,7 +7,7 @@ permalink:  the_beginners_guide_to_creating_your_first_ruby_gem_cli
 
 **How I would have spent two week’s worth of time more productively.**
 
-I honestly thought I hit the lowest point in my short coding life this past weekend when it occurred to me that I would never be able to figure out how to request/parse data from a *Yelp* REST API in time to make it before my project deadline. (That and also the fact that I’m typing this on my phone’s Notes📝 because my internet decided it wanted outs for the second time today.) It took me all week of looking at tutorial videos and reading different sites to find that I really could not do it. I wish I had had the decisiveness and logic to not go for an [OAuth](http://http://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth) for my very first project. Now I know the complications involved. By the way, an `OAuth` “is a delegated authorization framework for REST/APIs. It enables apps to obtain limited access (scopes) to a user's data without giving away a user's password.” So my idea, of having an extension to my [Small Businesses NYC Facebook group](http://http://http://http://.facebook.com/groups/246948743086053?tsid=0.661418698951614&source=result) was dashed. I shall conquer you one day soon though* Yelp* REST API!
+I honestly thought I hit the lowest point in my short coding life this past weekend when it occurred to me that I would never be able to figure out how to request/parse data from a *Yelp* REST API in time to make it before my project deadline. (That and also the fact that I’m typing this on my phone’s Notes📝 because my internet decided it wanted outs for the second time today.) It took me all week of looking at tutorial videos and reading different sites to find that I really could not do it. I wish I had had the decisiveness and logic to not go for an [OAuth](http://http://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth) for my very first project. Now I know the complications involved. By the way, an `OAuth` “is a delegated authorization framework for REST/APIs. It enables apps to obtain limited access (scopes) to a user's data without giving away a user's password.” So my idea, of having an extension to my [Small Businesses NYC Facebook group](http://http://http://http://.facebook.com/groups/246948743086053?tsid=0.661418698951614&source=result) was dashed. I shall conquer you one day soon though *Yelp* REST API!
 
 
 **If I could turn back time, I would do a much better job with my initial planning. A good way to start is by browsing this list list of Public APIs on @jbrooksuk’s *GitHub*:**
@@ -50,10 +50,10 @@ To OPEN new file in text editor:
 
 
 How to push changes to *GitHub* repo:
-1. git status *have to be in project's Directory
+1. git status (have to be in project's Directory)
 2. git add . 
 3. git commit -m "added a class for business.rb" 
-4. git push origin master 
+4. git push origin master / git push 
 
 Misc:
 * command w = close out of project
