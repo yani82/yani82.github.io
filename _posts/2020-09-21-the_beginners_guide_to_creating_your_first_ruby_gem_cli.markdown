@@ -18,7 +18,7 @@ Alternate sites for APIs:
 * https://rapidapi.com/
 
 Make sure you choose an API that does not require an api key 🔑, when you are looking under the *Auth* column, choose APIs with ‘No’ listed by it and is able to produce the data that you'd like to display to your user. 
-![](http://IMG_5805.html)
+![](img src="http://IMG_5805.html" alt="Snippet of table in Public APIs list")
 
 Not forgetting to mention, I had just switched to a local environment the previous weekend, so that was a whole new adjustment. Make sure you make room in your RAM for all the stuff you’re going to be downloading. Don’t spend too much time on adding [fun extensions](http://https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US) to your *Google Chrome*! Just get cracking. 
 ![](https://media.giphy.com/media/xtqmnfnCkn1TNTtXzQ/giphy.gif)
@@ -41,6 +41,7 @@ Next up, was actually setting up my project on my text editor and linking it to 
 
 
 **So, here are some of the basic steps to follow to get you started as well as some common *Git* commands that you’ll be using often: **
+![](https://media.giphy.com/media/TgV7fAvYIZMHOed0Rg/giphy.gif)
 
 To OPEN new file in text editor: 
 1. cd
