@@ -21,6 +21,7 @@ Make sure you choose an API that does not require an api key 🔑, when you are 
 ![](http://IMG_5805.html)
 
 Not forgetting to mention, I had just switched to a local environment the previous weekend, so that was a whole new adjustment. Make sure you make room in your RAM for all the stuff you’re going to be downloading. Don’t spend too much time on adding [fun extensions](http://https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US) to your *Google Chrome*! Just get cracking. 
+![](https://media.giphy.com/media/xtqmnfnCkn1TNTtXzQ/giphy.gif)
 
 Next up, was actually setting up my project on my text editor and linking it to my *GitHub* via *Git*. I had faced many *Git* errors related to this and and faced later on in the project process, below were just a few that I could remember: 
 
@@ -65,8 +66,10 @@ Misc:
 Also, if you have a bonus lab that isn’t required - don’t do it. That time could’ve been put into your project. Make sure you are absolutely clear of the project requirements and double check with your instructor on what you don’t need to prioritize on stuff like the project diagram. That [Draw.oi](http://https://app.diagrams.net) can steal more of your time than you think.
 
 Don’t try to switch up your routine during project time (if you have a choice that is, which I didn’t since my husband started work and I had my daughter for most of the day who was prepping for her first year of school). Opting to wake up early to code instead of staying up late is great and all (if you actually do wake up!), but there are also no cohort mates awake to bounce ideas off of and ask for help from.
+![](https://media.giphy.com/media/ZLxRWG0vhzpiE/giphy.gif)
 
 At the 11th hour, I had switched to scraping local businesses from the *Yellowpages* website, trying to stay in theme with my original idea, but found it much more time consuming than I expected, so I switched AGAIN to using a free API where I was able to instantly parse data from. Unfortunately, with changing of my project, I thought with a few edits here and there I was able to use my old project directory and files, but I couldn’t figure out how to change the main directory’s name so I wasn’t able to run my terminal. I thought by editing it through my hard drive it would solve the issue, but it didn’t. I ended up having to open a new file in hopes that it would work. It mostly did, but the Gemfile, Readme, License etc. (non .rb files) did not attach themselves to the project’s file tree. When I did finally sort that out by cloning the repo from my *GitHub* and start anew from there, and writing most of my code for the project, when it came to my API class, I realized the data that was fetched did not have anything I wanted to list for my user. (Note to those looking for an API with data on Covid-19, do not use https://covid19api.com/) So guess what? I switched YET AGAIN to scraping from *Yellowpages*. It's been such a roller coaster ride! 
+![](https://media.giphy.com/media/oZwVVO5EpYImc/giphy.gif)
 
 In the process of overloading myself with all sorts of information, I did come by a few handy add-ons I’d like to use in future projects:
 
@@ -82,10 +85,9 @@ In the process of overloading myself with all sorts of information, I did come b
 
 Ok then, before I continue rambling on nonsensically, I’ll leave you with a quote by *TLC*:
 “Don’t go chasing waterfalls, please stick to the rivers and the lakes that you’re used to.”
+![](https://media.giphy.com/media/gmxLyCyh6xrR6/giphy.gif)
 
 Nevertheless, with all of the challenges faced, I am truly hoping that I’m able to move forward with my current cohort! A special shout out to my cohort mates Hamza, Wayne, Cinna, Joshua W., Dana, Kelin, Adeeba, Fenty, Shalom and Daniel for all your help and encouragement during this time! I'm definitely going to pay-it-forward <3 
-
-*Now to figure out how to add images and gifs in here*
 
 
 
