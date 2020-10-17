@@ -18,6 +18,7 @@ Alternate sites for APIs:
 * https://rapidapi.com/
 
 Make sure you choose an API that does not require an api key 🔑, when you are looking under the *Auth* column, choose APIs with ‘No’ listed by it and is able to produce the data that you'd like to display to your user. 
+![](http://IMG_5805.html)
 
 Not forgetting to mention, I had just switched to a local environment the previous weekend, so that was a whole new adjustment. Make sure you make room in your RAM for all the stuff you’re going to be downloading. Don’t spend too much time on adding [fun extensions](http://https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US) to your *Google Chrome*! Just get cracking. 
 
