@@ -88,8 +88,7 @@ Ok then, before I continue rambling on nonsensically, I’ll leave you with a qu
 “Don’t go chasing waterfalls, please stick to the rivers and the lakes that you’re used to.”
 ![](https://media.giphy.com/media/gmxLyCyh6xrR6/giphy.gif)
 
-Please feel free to check out my project, Mom N' Pop, here. I'm open to any constructive criticism! 
-https://github.com/yani82/Mom_n_Pop
+Please feel free to check out my project, Mom N' Pop, [here](http://https://github.com/yani82/Mom_n_Pop). I'm open to any constructive criticism! 
 
 
 Nevertheless, with all of the challenges faced, I am truly hoping that I’m able to move forward with my current cohort! A special shout out to my cohort mates Hamza, Wayne, Cinna, Joshua W., Dana, Kelin, Adeeba, Fenty, Shalom and Daniel for all your help and encouragement during this time! I'm definitely going to pay-it-forward <3 
