@@ -57,6 +57,7 @@ How to push changes to *GitHub* repo:
 2. git add . 
 3. git commit -m "added a class for business.rb" 
 4. git push origin master / git push 
+5. Here's a helpful [video](http://https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be) for beginners
 
 Misc:
 * command w = close out of project
