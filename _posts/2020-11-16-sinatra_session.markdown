@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sinatra Session"
+title:      "Sinatra Sessions"
 date:       2020-11-16 01:47:55 -0500
 permalink:  sinatra_session
 ---
@@ -32,6 +32,10 @@ These sites helped with creating my Views. There really is no limit to what you 
 * [erb Extension for VSCode](http://https://marketplace.visualstudio.com/items?itemName=CraigMaslowski.erb)
 
 I faced this very unique error` Errno::EIO at /registries Input/output error @ io_writev - <STDERR>` that I couldn't figure out for the life of me. It took me almost a couple of days, and thankfully my cohort mate, Chaim, managed to help me resolve it! We had to kill a server listening on another port. [Here](http://https://github.com/sshingler/capistrano-resque/issues/81) are a [couple](http://https://stevenwilliamalexander.wordpress.com/2013/02/04/ruby-sinatra-unicorn-errnoeio-inputoutput-err/) links that may help you resolve it, just in case you face the same issue. 
+
+Resolve: 
+Key in lsof `-i tcp:9393` (port number) in your terminal 
+Then `kill -9 67619` (5-digit number that is shown in terminal) 
 
 As I type this, I'm stuck at figuring out why `ActiveRecord` is returning my `user_id` as `nil` for my `edit` route in my Registry Controller. I'll be sure to update you on how I managed to over come that soon. Check out my repo here: [VOTEworks](http://https://github.com/yani82/VOTEworks). Till then, "swing easy"! 
 
