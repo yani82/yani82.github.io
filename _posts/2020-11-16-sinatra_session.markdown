@@ -20,6 +20,8 @@ Thankfully, I was able to fix my laptop within a day (I am $150 poorer), and I w
 
 Guess what I decided my project would be on? Voter registration! My sources of guidance for initially setting up my Sinatra project was this very helpful [blog post](https://flatironschool.com/blog/how-to-build-a-sinatra-web-app-in-10-steps) by @aprietof that was shared by my fellow cohort Christie. I also watched Avi’s "[Building Authentication in Sinatra](https://www.youtube.com/watch?v=_S1s6R-_wYc&t=484s)" video a few times. Here are more helpful [tutorials](https://www.youtube.com/playlist?list=PLNUiyK37z4zHyIuQjCJt-gPjBzbMb5k1Q) that may come in handy. 
 
+![](https://media.giphy.com/media/THHHNksRyvBK1zGHjO/giphy.gif)
+
 For useful resources on authentication and `Bcrypt`, check [this](https://github.com/codahale/bcrypt-ruby) out.
 
 These sites helped with creating my Views. There really is no limit to what you can do and add to your form if you had the time. 
@@ -37,7 +39,7 @@ Resolve:
 Key in lsof `-i tcp:9393` (port number) in your terminal 
 Then `kill -9 67619` (5-digit number that is shown in terminal) 
 
-As I type this, I'm stuck at figuring out why `ActiveRecord` is returning my `user_id` as `nil` for my `edit` route in my Registry Controller. I'll be sure to update you on how I managed to over come that soon. Check out my repo here: [VOTEworks](https://github.com/yani82/VOTEworks). Till then, "swing easy"! 
+I wanted to thank all my cohort mates who took their time to help me out on this project! Check out my repo here: [VOTEworks](https://github.com/yani82/VOTEworks). Till then, "swing easy"! 
 
 ![](https://media.giphy.com/media/28mkBBJuyIEPVRbypT/giphy.gif)
 
