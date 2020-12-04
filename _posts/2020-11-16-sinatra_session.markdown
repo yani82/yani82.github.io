@@ -14,11 +14,11 @@ I was still in the midst of completing the Fwitter Lab, and put it on the back b
 
 ![](https://media.giphy.com/media/QwrTpd2uFPeaA/giphy.gif)
 
-Thankfully, I was able to fix my laptop within a day (I am $150 poorer), and I was able to complete my Fwitter Lab on the afternoon of that momentous Saturday itself. That night I was able to set up my project, with surprisingly minimal issues! I had created a new repo in my Github, and cloned that to install the [Corneal](http://thebrianemory.github.io/corneal/) gem. I ended up having to delete my `LICENSE` file and moving the `README.md` under my main app folder, because it was created with them outside of my main app folder *shrug*. Corneal is amazing - thank you to former student of Flatiron School: Brian Emory, for creating it! 
+Thankfully, I was able to fix my laptop within a day (I am $150 poorer), and I was able to complete my Fwitter Lab on the afternoon of that momentous Saturday itself. That night I was able to set up my project, with surprisingly minimal issues! I had created a new repo in my Github, and cloned that to install the [Corneal](http://thebrianemory.github.io/corneal/) gem. I ended up having to delete my `LICENSE` file and moving the `README.md` under my main app folder, because it was created with them outside of my main app folder *shrug*. Corneal is amazing - thank you to former student of Flatiron School: Brian Emory, for developing it! 
 
 ![](https://media.giphy.com/media/LtcuAIzPqlTnW/giphy.gif)
 
-Guess what I decided my project would be on? Voter registration! My sources of guidance for initially setting up my Sinatra project was this very helpful [blog post](https://flatironschool.com/blog/how-to-build-a-sinatra-web-app-in-10-steps) by @aprietof that was shared by my fellow cohort Christie. I also watched Avi’s "[Building Authentication in Sinatra](https://www.youtube.com/watch?v=_S1s6R-_wYc&t=484s)" video a few times. Here are more helpful [tutorials](https://www.youtube.com/playlist?list=PLNUiyK37z4zHyIuQjCJt-gPjBzbMb5k1Q) that may come in handy. 
+Guess what I decided my project would be on? Voter registration! My sources of guidance for initially setting up my Sinatra project was this very helpful [blog post](https://flatironschool.com/blog/how-to-build-a-sinatra-web-app-in-10-steps) by @aprietof that was shared by my fellow cohort mate Christie. I also watched Avi’s "[Building Authentication in Sinatra](https://www.youtube.com/watch?v=_S1s6R-_wYc&t=484s)" video a few times. Here are more helpful [tutorials](https://www.youtube.com/playlist?list=PLNUiyK37z4zHyIuQjCJt-gPjBzbMb5k1Q) that may come in handy. 
 
 ![](https://media.giphy.com/media/THHHNksRyvBK1zGHjO/giphy.gif)
 
