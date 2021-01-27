@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "On the Rails"
-date:       2021-01-27 07:54:47 +0000
+date:       2021-01-27 02:54:47 -0500
 permalink:  on_the_rails
 ---
 
@@ -22,7 +22,9 @@ I found Cohort Lead, Jennifer Hansen’s videos to be helpful, in particular thi
 [](http://https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
 
 I got this `error: <pathspec 'commit"' did not match any file(s) known to git`, and Eri said that whichever branch I was on would be the one pushed to GitHub, by using `git branch`. If you’re on the main branch, which I’m usually on, you would have to put `git push origin main`. 
+
 SOLUTION:
+
 <git remote origin>
 <git remote rm origin>
 <remote add origin git@github.com:yani82/EcoFriend.git>
