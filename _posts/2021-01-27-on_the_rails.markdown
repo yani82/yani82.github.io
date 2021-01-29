@@ -21,9 +21,10 @@ As a refresher, our sub cohort lead, Eri, passed me this [video](https://www.you
 ![](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
 
 I found Cohort Lead, Jennifer Hansen’s videos to be very helpful, in particular this one: [Rails MyBlog Project Build - Part 1](https://www.youtube.com/watch?v=825w5S69J38&feature=youtu.be&t=138s) was extremely comprehensible and got me to set up almost flawlessly. I just had a minor glitch linking to my Github. 
-![](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
 
 I got this `error: <pathspec 'commit"' did not match any file(s) known to git`, and Eri said that whichever branch I was on would be the one pushed to GitHub, by using `git branch`. If you’re on the main branch, which I’m usually on, you would have to put `git push origin main`. 
+
+![](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
 
 SOLUTION:
 * `git remote origin`
@@ -35,7 +36,11 @@ SOLUTION:
 * `git push origin master `
 * TO TEST AGAIN: `git branch`
 
-After which point, I was feeling good about the flow of building my project up until I used `.build` in my `def new` method, in my `brand_controller`. As I was typing  this I was still stuck on it and moved to my create method, and commented the `.build` line out, then the form page didn’t show the whole create chunk in my `views`. I eventually managed to resolve this, but unfortunately not being able to grasp my associations entirely kept causing me to switch around my code, making things feel more confusing than they already are. Thankfully, I was able to get the support from my cohort mates and I’m hoping to be able to wrap up my project soon. Currently, I’m still feeling like I’m drowning, so I’ll be sure to update this blog when I’ve completed my project. I wish I had more resources to share, but  below are a few links that might help you along the way: 
+After which point, I was feeling good about the flow of building my project up until I used `.build` in my `def new` method, in my `brand_controller`. As I was typing  this I was still stuck on it and moved to my create method, and commented the `.build` line out, then the form page didn’t show the whole create chunk in my `views`. 
+
+![](https://media.giphy.com/media/Plg469Oxmig6lowyVM/giphy.gif)
+
+I eventually managed to resolve this, but unfortunately not being able to grasp my associations entirely kept causing me to switch around my code, making things feel more confusing than they already are. Thankfully, I was able to get the support from my cohort mates and I’m hoping to be able to wrap up my project soon. Currently, I’m still feeling like I’m drowning, so I’ll be sure to update this blog when I’ve completed my project. I wish I had more resources to share, but  below are a few links that might help you along the way: 
 
 Another helpful resource to make sense of your associations, here via [The Odin Project](https://theodinproject.com/courses/ruby-on-rails/lessons/active-record-associations). 
 
