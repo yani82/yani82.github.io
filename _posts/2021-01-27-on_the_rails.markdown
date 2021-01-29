@@ -33,7 +33,7 @@ I got this `error: <pathspec 'commit"' did not match any file(s) known to git`, 
 
 ![](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
 
-SOLUTION:
+SOLUTION: Key into your terminal 
 * `git remote origin`
 * `git remote rm origin`
 * `remote add origin git@github.com:yani82/EcoFriend.git`
