@@ -32,4 +32,4 @@ After doing some research, I found it was extremely helpful to write this down s
 [](https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif)
 
 
-Ta-dah! Sometimes just walking through the cycle one piece at a time, and explaining it in layman’s terms makes it so much easier to understand, and in turn explain what’s actually going on in this process that takes a mere mili-second to happen. It really does make you stop and think about how much actually happens under the hood whenever you’re simply surfing the web.The content of your blog post goes here.
+Ta-dah! Sometimes just walking through the cycle one piece at a time, and explaining it in layman’s terms makes it so much easier to understand, and in turn explain what’s actually going on in this process that takes a mere mili-second to happen. It really does make you stop and think about how much actually happens under the hood whenever you’re simply surfing the web. 
