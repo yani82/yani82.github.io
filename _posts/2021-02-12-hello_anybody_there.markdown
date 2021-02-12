@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "“Hello, anybody there?”"
-date:       2021-02-12 06:17:16 +0000
+date:       2021-02-12 01:17:17 -0500
 permalink:  hello_anybody_there
 ---
 
@@ -10,10 +10,10 @@ permalink:  hello_anybody_there
 
 
 Of course, in my head I called this lifecycle anything but “request-response”. Instead, I would refer to it as Get/Post, a stateless request or just you know, that thing that happens when you click on submit and it returns something on the browser? Clearly, I didn’t quite grasp the “request-response” lifecycle fully.
-[](http://)
+[](https://media.giphy.com/media/3ohhwpmXjcIot5lv68/giphy.gif)
 
 After doing some research, I found it was extremely helpful to write this down so I’m able to articulately explain and describe what this is when asked. Especially during an assessment! What’s actually happening when you load that URL? Your browser sends a “request” for the post resource, and the web framework, Rails, has to then send back a “response” with some HTML for the browser to display.
-[](https://media.giphy.com/media/3ohhwpmXjcIot5lv68/giphy.gif)
+[](https://media.giphy.com/media/dwmNhd5H7YAz6/giphy.gif)
 
 
 ### Just to break it down, Rails figures out which code should handle the “request”.
