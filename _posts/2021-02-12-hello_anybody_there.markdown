@@ -32,7 +32,7 @@ After doing some research, I found it was extremely helpful to write this down s
 ![](https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif)
 
 
-In the case of my project, [Eco Friend](https://github.com/yani82/EcoFriend), this fires after the user logs in and is prompted to 'Recommend a Brand', and if the requested data is not received, the app will redirect the user back to the brand_path, which is the page the user is currently on until the app receives the requested data to proceed forward. Otherwise, if the data requested is properly filled out, which is the 'Name', 'Category', 'Info' and 'Image' (optional) is provided by the user, the app will then receive the separate request, goes through the router, gets pointed to a new controller action that will then render to the next page that will 'show' what the user had just submitted. 
+In the case of my project, [Eco Friend](https://github.com/yani82/EcoFriend), this fires after the user logs in and is prompted to 'Recommend a Brand', and if the requested data is not received, the app will redirect the user back to the `brand_path`, which is the page the user is currently on until the app receives the requested data to proceed forward. Otherwise, if the data requested is properly filled out, which is the 'Name', 'Category', 'Info' and 'Image' (optional) is provided by the user, the app will then receive the separate request, goes through the router, gets pointed to a new controller action that will then render to the next page that will 'show' what the user had just submitted. 
 
 ![](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
 
