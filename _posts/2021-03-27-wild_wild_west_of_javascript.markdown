@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "WILD WILD WEST OF JAVASCRIPT "
-date:       2021-03-27 06:36:44 +0000
+title:      "Wild Wild West of JavaScript"
+date:       2021-03-27 02:36:45 -0400
 permalink:  wild_wild_west_of_javascript
 ---
 
