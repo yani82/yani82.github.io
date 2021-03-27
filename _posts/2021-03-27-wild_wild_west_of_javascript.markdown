@@ -41,7 +41,7 @@ I learned a couple of best practices along the way. Firstly, the reason why ther
 
 Secondly, albeit annoying to get used to, but I totally understand why it’s best practice - is making each file separately in their own branch. This enables you to ensure that it’s working correctly before pushing it to your main/master branch. If anything were to break in your app, it’d be easier to locate and fix, instead of having your whole app break and having to start all over again. 
 
-##### Git commands and how to merge in GitHub:
+#### Git commands and how to merge in GitHub:
 - Git co -b user_model 
 - Rails g model User name image_url email 
 - Git add . > git commit -m “user model” > git push 
@@ -62,16 +62,22 @@ This is when I knew I had to reset my brain, and start fresh the next day.
 ![](https://media.giphy.com/media/A7XIKk7dBwSZQ7oFku/giphy.gif)
 
 #### Extra Resources: *Ayana's Part 2-7 JS Project Build*
-- PART 2 — Routes, Controllers, Serializers
-https://youtu.be/ZJdfWBVFWAI
-- PART 3 — Events, Fetch, and DOM Manipulation using a Rails API
-https://youtu.be/goYf_xQiGyE
-- PART 4 — OOJS Refactor
-https://youtu.be/EleImMG_8Ck
-- PART 5 — Complex Database Relationships
-https://youtu.be/u_Zrd8LvS7A
-- PART 6 — Intro to Implementing Bootstrap
-https://youtu.be/18L_LRxMeIw
-- PART 7 — Implementing Auth in JS Project using JWT
-https://youtu.be/YIGbMX49vcE
+
+- [PART 2](https://youtu.be/ZJdfWBVFWAI) — Routes, Controllers, Serializers
+
+
+- [PART 3](https://youtu.be/goYf_xQiGyE) — Events, Fetch, and DOM Manipulation using a Rails API
+
+
+- [PART 4](https://youtu.be/EleImMG_8Ck) — OOJS Refactor
+
+
+- [PART 5](https://youtu.be/u_Zrd8LvS7A) — Complex Database Relationships
+
+
+- [PART 6](https://youtu.be/18L_LRxMeIw) — Intro to Implementing Bootstrap
+
+
+- [PART 7](https://youtu.be/YIGbMX49vcE) — Implementing Auth in JS Project using JWT
+
 
