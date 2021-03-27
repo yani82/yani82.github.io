@@ -61,18 +61,17 @@ This is when I knew I had to reset my brain, and start fresh the next day.
 
 ![](https://media.giphy.com/media/A7XIKk7dBwSZQ7oFku/giphy.gif)
 
-#### Extra Resources: 
-*Ayana's Part 2-7 JS Project Build*
-PART 2 — Routes, Controllers, Serializers
+#### Extra Resources: *Ayana's Part 2-7 JS Project Build*
+- PART 2 — Routes, Controllers, Serializers
 https://youtu.be/ZJdfWBVFWAI
-PART 3 — Events, Fetch, and DOM Manipulation using a Rails API
+- PART 3 — Events, Fetch, and DOM Manipulation using a Rails API
 https://youtu.be/goYf_xQiGyE
-PART 4 — OOJS Refactor
+- PART 4 — OOJS Refactor
 https://youtu.be/EleImMG_8Ck
-PART 5 — Complex Database Relationships
+- PART 5 — Complex Database Relationships
 https://youtu.be/u_Zrd8LvS7A
-PART 6 — Intro to Implementing Bootstrap
+- PART 6 — Intro to Implementing Bootstrap
 https://youtu.be/18L_LRxMeIw
-PART 7 — Implementing Auth in JS Project using JWT
+- PART 7 — Implementing Auth in JS Project using JWT
 https://youtu.be/YIGbMX49vcE
 
