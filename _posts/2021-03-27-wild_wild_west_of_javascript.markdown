@@ -58,6 +58,7 @@ Oddly enough, after watching Ayana’s Refactoring OOJS [video](https://youtu.be
 ![](https://media.giphy.com/media/26Ff2l7ENOhVCJpLy/giphy.gif)
 
 This is when I knew I had to reset my brain, and start fresh the next day. 
+**Update: I had to watch OOJS Refactor again to redo all the work lost when I didn't complete my `git pull` the night before. 
 
 ![](https://media.giphy.com/media/A7XIKk7dBwSZQ7oFku/giphy.gif)
 
