@@ -22,7 +22,7 @@ As for my project, I decided on a blog concept app that allows users to share wi
 
 ![](https://media.giphy.com/media/pHXhn8Ee6lRO0KZtM1/giphy.gif)
 
-Some of the very useful resources I referred to when building my JavaScript project were [Ayana Zaire’s 7-parter project build](https://www.youtube.com/watch?v=Q5R7HSqdGFk&t=8s) and you also refer to her GitHub repos, and notes [here](https://github.com/learn-co-curriculum/mod3-project-week-setup-example) and [here](https://github.com/AyanaZaire/javascript-project-resources/blob/master/js-project-ooo.md). 
+Some of the very useful resources I referred to when building my JavaScript project were [Ayana Zaire’s 7-parter project build](https://www.youtube.com/watch?v=Q5R7HSqdGFk&t=8s) and you can also refer to her GitHub repos, and notes [here](https://github.com/learn-co-curriculum/mod3-project-week-setup-example) as well as [here](https://github.com/AyanaZaire/javascript-project-resources/blob/master/js-project-ooo.md). 
 
 
 The first obstacle I came across was, I had failed to do something as simple as creating a new directory for my front end from my back end VSCode terminal. It didn’t  show in my file tree. These are the steps I took to rectify it: 
@@ -35,32 +35,32 @@ The first obstacle I came across was, I had failed to do something as simple as 
 
 ![](https://media.giphy.com/media/Y0PMqgFAccyahnWN3V/giphy.gif)
 
-I learned a couple of best practices along the way. Firstly, the reason why there was a need to make two separate directories for our backend and front end is that if you want to deploy your backend to a host like *Heroku*, or your front end to a host like *Netifly*, it would be easier. Also, in a real world scenario it’s easier for the back end and front end developer to focus on what needs to be done in their respective departments. 
+I learned a couple of best practices along the way. Firstly, the reason why there was a need to make two separate directories for our backend and frontend is that if you want to deploy your backend to a host like *Heroku*, or your front end to a host like *Netifly*, it would be easier. Also, in a real world scenario it’s easier for the backend and frontend developer to focus on what needs to be done in their respective departments. 
 
 ![](https://media.giphy.com/media/MqxZxTlvcY5BS/giphy.gif)
 
 Secondly, albeit annoying to get used to, but I totally understand why it’s best practice - is making each file separately in their own branch. This enables you to ensure that it’s working correctly before pushing it to your main/master branch. If anything were to break in your app, it’d be easier to locate and fix, instead of having your whole app break and having to start all over again. 
 
-#### Git commands and how to merge in GitHub:
-- Git co -b user_model 
-- Rails g model User name image_url email 
-- Git add . > git commit -m “user model” > git push 
-- If merging on Github: Compare & Pull request > Create pull request > Merge pull request is green > Confirm merge > Delete branch 
-- Back in terminal: Git co master
-- Git pull 
+#### *Git* commands and how to merge in *GitHub*:
+- `git co -b user_model `
+- `rails g model User name image_url email `
+- `git add .` > `git commit -m “user model”` > `git push` 
+- If merging on *Github*: Compare & Pull request > Create pull request > Merge pull request is green > Confirm merge > Delete branch 
+- Back in terminal: `git co master`
+- `git pull` 
 
 Oddly enough, after watching Ayana’s Refactoring OOJS [video](https://youtu.be/EleImMG_8Ck), everything just started falling apart as an app usually does when you’re building it. So a few other issues I had faced were: 
 
-- Not able to display create function on browser without refreshing it and it’s parsing data according to Console
-- Not able to reset form to empty after posting data
-- App totally did not respond to anything I was trying to communicate to server?! (truly the moments when you doubt ALL of your abilities in trying to pursue software engineering!) 
+- Not able to display create function on browser without refreshing it and it’s parsing data according to Console (resolution: I had to double check on that I was passing the right arguement in the last line of my fetch) 
+- Not able to reset form to empty after posting data (resolution: added `titleInput.value = ""` on the last line of my `createFormHandler`)
+- App totally did not respond to anything I was trying to communicate to server?! (truly the moments when you doubt ALL of your abilities in trying to pursue software engineering! Resolution: I didn't complete my Git merge onto Github) 
+- I wasn't able to Git pull new code from a separate branch onto my local text editor after attempting to use Git stash which saves my code locally, in a different file and saved for later, able to be retrievable and avoid switch branch error, then I Git pull'ed and that didn’t work, so I used Git fetch, and then Git pull’ed again and that didn’t work, so with the help of my cohort mate Jordan, we looked up Git reflog to see the log history and then I thought since my new branch had successfully merged on the master branch on Github, I could just clone that repo. So, I took out my existing frontend folder in my computer first and then cloned it, so that worked!!!
+
+![](https://media.giphy.com/media/X9dpsHE4VPMWY/giphy.gif)
+
+Along my arduous journey of debugging, at least I was able to learn many new Git commands I would have never known, as well as learned how useful it is to download the Git desktop app to make stuff like that easier, and I didn’t know that I had to `npm install` before starting anything, which is equivalent to `bundle install`, which checks on your app's dependencies, and also used when doing React labs.  I also downloaded a new extension for my *VSCode* text editor called `Live Server`, which is awesome! You don’t have to reload all the time, it does it for you. Unfortunately, I wasn’t able to debug my `addEventListener` for a new delete fetch I was trying to create, it didn’t even hit my `console.log` and returned as `null`. Currently, this is also causing my `create` function to break! So, I'm pretty dumbfounded at the moment, and just trudging through to finally get everything running. 
 
 ![](https://media.giphy.com/media/26Ff2l7ENOhVCJpLy/giphy.gif)
-
-This is when I knew I had to reset my brain, and start fresh the next day. 
-**Update: I had to watch OOJS Refactor again to redo all the work lost when I didn't complete my `git pull` the night before. 
-
-![](https://media.giphy.com/media/A7XIKk7dBwSZQ7oFku/giphy.gif)
 
 #### Extra Resources: *Ayana's Part 2-7 JS Project Build*
 
