@@ -12,7 +12,7 @@ Amazingly I had an easier time comprehending JavaScript compared to Ruby. I thin
 
 ![](https://media.giphy.com/media/3o7aD3fWu2sAz9dAM8/giphy.gif)
 
-Similarities in Ruby && JavaScript languages:
+### Similarities in Ruby && JavaScript languages:
 - They are both object oriented 
 - Dynamic 
 - General purpose
@@ -41,7 +41,7 @@ I learned a couple of best practices along the way. Firstly, the reason why ther
 
 Secondly, albeit annoying to get used to, but I totally understand why it’s best practice - is making each file separately in their own branch. This enables you to ensure that it’s working correctly before pushing it to your main/master branch. If anything were to break in your app, it’d be easier to locate and fix, instead of having your whole app break, and having to start all over again. 
 
-#### *Git* commands and how to merge in *GitHub*:
+### *Git* commands and how to merge in *GitHub*:
 - `git co -b user_model `
 - `rails g model User name image_url email `
 - `git add .` > `git commit -m “user model”` > `git push` 
@@ -51,16 +51,18 @@ Secondly, albeit annoying to get used to, but I totally understand why it’s be
 
 Oddly enough, after watching Ayana’s Refactoring OOJS [video](https://youtu.be/EleImMG_8Ck), everything just started falling apart as an app usually does. A few other issues I had faced were: 
 
-- Not able to display my `create` function on the browser without refreshing it, but it’s parsing data according to the `Console` (resolution: I had to double check on whether I was passing the right arguement in the last line of my fetch) 
+- Not able to display my `create` function on the browser without refreshing it, but it’s parsing data according to the `Console` (resolution: I had to double check on whether I was passing the right argument in the last line of my `postFetch`) 
 - Not able to reset form to empty after posting data (resolution: added `titleInput = ""` on the last line of my `createFormHandler`)
 - App totally did not respond to anything I was trying to communicate to server?! (truly these are the moments when you doubt ALL of your abilities in trying to pursue software engineering! Resolution: I didn't complete my *Git* merge onto *GitHub*) 
 - I wasn't able to `git pull` new code from a separate branch onto my local text editor after attempting to use `git stash` which saves my code locally in a different file, saves it for later, making it retrievable, and avoids switch branch errors, then I `git pull`'ed and that didn’t work, so I used `git fetch`, and then `git pull`’ed again and that didn’t work, so with the help of my cohort mate Jordan, we looked up `git reflog` to see the log history, and I thought since my new branch had successfully merged on the main/master branch on *GitHub*, I could just clone that repo. So, I took out my existing frontend folder in my computer first, then cloned it - so that worked!!!
 
 ![](https://media.giphy.com/media/X9dpsHE4VPMWY/giphy.gif)
 
-Along my arduous journey of debugging, at least I was able to learn many new *Git* commands I would have never known, as well as learned how useful it is to download the *GitHub* desktop app to make stuff like that easier, and I didn’t know that I had to `npm install` before starting anything, which is equivalent to `bundle install`. It checks on your app's dependencies, and is also used when doing *React* labs.  I also downloaded a new extension for my *VSCode* text editor called `Live Server`, which is awesome! You don’t have to reload your server all the time, it does it for you. Unfortunately, I wasn’t able to debug my `addEventListener` for a new `delete` fetch I was trying to create, it didn’t even hit my `console.log` and returned as `null`. Currently, this is also causing my `create` function to break! So, I'm pretty dumbfounded at the moment, and just trudging through to finally get everything running. 
+Along my arduous journey of debugging, at least I was able to learn many new *Git* commands I would have never known, as well as learned how useful it is to download the *GitHub* desktop app to make stuff like that easier, and I didn’t know that I had to npm install before starting anything, which is equivalent to `bundle install`. It checks on your app's dependencies, and is also used when doing *React* labs.  I also downloaded a new extension for my *VSCode* text editor called *Live Server*, which is awesome! You don’t have to reload your server all the time, it does it for you. Unfortunately, I wasn’t able to debug my `addEventListener` for a new `delete` fetch I was trying to create, it didn’t even hit my `console.log` and returned as `null`. Currently, this is also causing my `create` function to break! So, I'm pretty dumbfounded at the moment, and just trudging through to finally get everything running. 
 
-**Update**: I was able to get past my last bug, by combing through my `index.html` after using *Bootstrap*, and got my `delete` function working, BUT I have to click on the `Create Post` button first, and then click on the `Delete` button under a post for it to actually `delete` a post. Currently, I'm still trying to figure out what is causing this. If anyone has ever experienced this before, do let me know how you managed to debug it. '
+**Update I:** I was able to get past my last bug, by combing through my `index.html` after using *Bootstrap*, and I got my `delete` function working, BUT I have to click on the `Create Post` button first, and then click on the `Delete` button under a post for it to actually `delete` a post. Currently, I'm still trying to figure out what is causing this. If anyone has ever experienced this before, do let me know how you managed to debug it. 
+
+**Update II:** I finally got the monster bug figured out! After asking around, and coming to the conclusion that it's impossible to place an `eventListener` on something like a delete button, because the code itself is not created/rendered until after *AJAX* has returned all of the data. So, instead of adding the `eventListener` to something that is already rendered, with the help of my cohort mate Jordan, we just added the `eventListener` to the `post-container` that's inside the` index.html`.  
 
 ![](https://media.giphy.com/media/26Ff2l7ENOhVCJpLy/giphy.gif)
 
